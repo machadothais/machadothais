@@ -1,4 +1,5 @@
-<!-- Banner -->
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c8a8ad35-abcf-4cb9-9af8-41986fba694e" />
+
 <img width="100%" src="https://i.imgur.com/V3YzQfs.png" />
 
 <h1 align="center">👩‍💻 Olá, eu sou a Thais Cristiane Machado!</h1>
