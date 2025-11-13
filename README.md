@@ -1,8 +1,6 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c8a8ad35-abcf-4cb9-9af8-41986fba694e" />
 
-<img width="100%" src="https://i.imgur.com/V3YzQfs.png" />
-
-<h1 align="center">👩‍💻 Olá, eu sou a Thais Cristiane Machado!</h1>
+<h1 align="center">👩‍💻 Olá, eu sou a Thais</h1>
 
 <p align="center">
   Desenvolvedora de Software | Java ☕ | React ⚛️ | C# .NET 🌐 | SQL 📊  
@@ -25,8 +23,6 @@
 **Linguagens**
 <br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Frameworks e Bibliotecas**
@@ -55,12 +51,6 @@
 ### 🔹 **WebLab – Sistema de Reserva de Laboratórios**
 Sistema acadêmico completo — backend em **C#/.NET**, frontend em **React**, arquitetura limpa, diagramas UML e API REST.
 ➡️ *[Acessar Repositório](https://github.com/machadothais/reservaDeLaboratorioAPI)*
-
----
-
-### 🔹 **Projeto Java – E-commerce Pet**
-E-commerce completo em Java puro, com POO, abstração, coleções e testes.
-➡️ *[Repositório](https://github.com/machadothais/projeto-java)*
 
 ---
 
