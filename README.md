@@ -50,7 +50,7 @@
 
 ### 🔹 **WebLab – Sistema de Reserva de Laboratórios**
 Sistema acadêmico completo — backend em **C#/.NET**, frontend em **React**, arquitetura limpa, diagramas UML e API REST.
-➡️ *[Acessar Repositório](https://github.com/machadothais/reservaDeLaboratorioAPI)*
+➡️ *[Acessar Repositório](https://github.com/machadothais/ReservaDeLaboratorio.git)*
 
 ---
 
